@@ -1,1 +1,33 @@
+body {
+	text-align: center;
+	font-family: Courier New, serif;
+}
 
+div {
+	width: 1024px;
+	margin: 0 auto;
+
+}
+
+img {
+	width: 20%;
+}
+
+tr {
+	text-align: left;
+}
+
+.personal-info, td {
+	border-collapse: collapse;
+	border:1px solid lightgray;
+	padding: 10px;
+}
+
+.main-row {
+	font-weight: bold;
+	text-align: inherit;
+}
+
+.colored-row {
+	background-color: #f6f8fa;
+}
